@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="ca">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>@@TITLE@@</title>
+<style>@@STYLES@@</style>
+<script id="settings" type="application/json">@@SETTINGS@@</script>
+<script id="assets" type="application/json">@@ASSETS@@</script>
+<script id="gameData" type="application/json">@@STORY@@</script>
+</head>
+<body>
+<div id="app">
+  <header class="topbar">
+    <button class="icon" id="menuBtn" aria-label="Obrir el menú de capítols" title="Menú">☰</button>
+    <div class="meta"><b id="chapterName"></b><small id="itineraryName"></small></div>
+    <div class="phaseTrack" id="phaseTrack"></div>
+    <span id="saveStatus" class="saveStatus" role="status" aria-live="polite" title="Desament automàtic en aquest navegador"></span>
+    <button class="icon" id="restartBtn" aria-label="Començar una nova partida" title="Començar una nova partida">↺</button>
+  </header>
+  <div class="stageViewport" id="stageViewport"><main class="stage" id="stage" aria-label="Escena de la novel·la visual"></main></div>
+</div>
+
+
+
+<dialog id="routeMenu" class="simple-menu" aria-labelledby="routeTitle">
+  <header class="simple-menu-header"><h2 id="routeTitle">Menú</h2><button type="button" id="closeRoutes" class="simple-menu-close">Tancar</button></header>
+  <nav id="simpleMenuContents" class="simple-menu-content" aria-label="Itineraris i capítols"></nav>
+</dialog>
+
+<dialog id="newGameDialog" class="new-game-dialog" aria-labelledby="newGameTitle" aria-describedby="newGameCopy">
+  <h2 id="newGameTitle">Començar una nova partida?</h2>
+  <p id="newGameCopy">La nova partida substituirà el progrés desat.</p>
+  <div class="new-game-actions"><button type="button" id="cancelNewGame" autofocus>Cancel·lar</button><button type="button" id="confirmNewGame">Començar de nou</button></div>
+</dialog>
+
+<script>@@ENGINE@@</script>
+</body>
+</html>

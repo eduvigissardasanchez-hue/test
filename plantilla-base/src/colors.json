@@ -1,0 +1,11 @@
+{
+  "accent": "#c00000",
+  "accentHover": "#7b1d1d",
+  "ink": "#262626",
+  "muted": "#595959",
+  "surface": "#ffffff",
+  "border": "#d9d9d9",
+  "soft": "#f2f2f2",
+  "disabled": "#e6e6e6",
+  "secondary": "#666666"
+}

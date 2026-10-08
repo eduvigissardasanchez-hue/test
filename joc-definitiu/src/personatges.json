@@ -1,0 +1,58 @@
+{
+  "marta": {
+    "name": "Marta",
+    "role": "Delegada del Govern a França",
+    "sprites": {
+      "neutral": "marta_neutral",
+      "speaking": "marta_speaking",
+      "thinking": "marta_thinking",
+      "satisfied": "marta_satisfied"
+    }
+  },
+  "julia": {
+    "name": "Júlia",
+    "role": "Equip de la Delegació a França",
+    "sprites": {
+      "neutral": "julia_neutral",
+      "speaking": "julia_speaking",
+      "thinking": "julia_thinking",
+      "satisfied": "julia_satisfied"
+    }
+  },
+  "aina": {
+    "name": "Aina",
+    "role": "Tècnica de la SAEMCD",
+    "responsibility": "Directrius i validació",
+    "sprites": {
+      "neutral": "aina_neutral"
+    },
+    "imageScale": 1.0
+  },
+  "nuria": {
+    "name": "Núria",
+    "role": "Tècnica de coordinació · DGCIAE",
+    "responsibility": "Contingut, pressupost i validació",
+    "sprites": {
+      "neutral": "nuria_neutral"
+    },
+    "imageScale": 1.45
+  },
+  "leila": {
+    "name": "Leila",
+    "role": "Tècnica del Gabinet Tècnic",
+    "responsibility": "Configuració de MideNet",
+    "sprites": {
+      "neutral": "leila_neutral"
+    },
+    "imageScale": 1.45
+  },
+  "marc": {
+    "name": "Marc",
+    "role": "Secretari · SAEMCD",
+    "responsibility": "Aprovació i signatura",
+    "sprites": {
+      "neutral": "marc_neutral"
+    },
+    "imageScale": 1.45
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "marta": {
+    "name": "Marta",
+    "role": "Delegada",
+    "sprites": {
+      "neutral": "marta_neutral",
+      "speaking": "marta_speaking",
+      "thinking": "marta_thinking",
+      "satisfied": "marta_satisfied"
+    }
+  },
+  "julia": {
+    "name": "Júlia",
+    "role": "Equip de la Delegació",
+    "sprites": {
+      "neutral": "julia_neutral",
+      "speaking": "julia_speaking",
+      "thinking": "julia_thinking",
+      "satisfied": "julia_satisfied"
+    }
+  }
+}

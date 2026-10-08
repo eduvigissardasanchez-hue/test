@@ -1,0 +1,21 @@
+{
+  "schema": 2,
+  "gameId": "del-pla-al-seguiment",
+  "storageNamespace": "midenet",
+  "title": "Del Pla al Seguiment",
+  "brand": "MIDENET",
+  "coverSceneId": "cover",
+  "startSceneId": "plan_1_intro",
+  "cover": {
+    "titleLines": [
+      "Del Pla al",
+      "Seguiment"
+    ],
+    "setting": "Delegació del Govern a França · Pla de Treball 2027",
+    "descriptionLines": [
+      "Una missió institucional. Un Pla per construir.",
+      "Les decisions de la Marta i la Júlia, a les teves mans."
+    ]
+  },
+  "progressSchema": 2
+}

@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "gameId": "missio-paris-2027",
+  "storageNamespace": "midenet",
+  "title": "Del Pla al Seguiment",
+  "brand": "MIDENET",
+  "coverSceneId": "c1_cover",
+  "startSceneId": "c1_01",
+  "cover": {
+    "titleLines": [
+      "Del Pla al",
+      "Seguiment"
+    ],
+    "setting": "Delegació del Govern a França · Pla de Treball 2027",
+    "descriptionLines": [
+      "Una missió institucional. Un Pla per construir.",
+      "Les decisions de la Marta i la Júlia, a les teves mans."
+    ]
+  }
+}

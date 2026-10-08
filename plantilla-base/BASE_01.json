@@ -1,0 +1,24 @@
+{
+  "name": "Del Pla al Seguiment",
+  "baseline": "BASE_01",
+  "basedOn": "MideNet_C1_CLIENT_V15.html",
+  "date": "2026-10-08",
+  "playableChapters": [
+    1
+  ],
+  "pendingChapters": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "clientFile": "joc.html",
+  "clientSha256": "8dd20254b0af38f1f6fdd4dde2c722cdb42116732f163d7542a880ed552736f8",
+  "sourceReferenceSha256": "637cd70221e48af31380568db8b0ac0731c2c04569303c34ffadc849dc8c2b6e",
+  "editorInterfaceIncluded": false,
+  "browserChecksPassed": 29
+}

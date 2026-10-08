@@ -1,0 +1,38 @@
+{
+  "bg_office": {
+    "file": "assets/bg_office.webp"
+  },
+  "bg_table": {
+    "file": "assets/bg_table.webp"
+  },
+  "bg_strategy": {
+    "file": "assets/bg_strategy.webp"
+  },
+  "bg_review": {
+    "file": "assets/bg_review.webp"
+  },
+  "marta_neutral": {
+    "file": "assets/marta_neutral.webp"
+  },
+  "marta_speaking": {
+    "file": "assets/marta_speaking.webp"
+  },
+  "marta_thinking": {
+    "file": "assets/marta_thinking.webp"
+  },
+  "marta_satisfied": {
+    "file": "assets/marta_satisfied.webp"
+  },
+  "julia_neutral": {
+    "file": "assets/julia_neutral.webp"
+  },
+  "julia_speaking": {
+    "file": "assets/julia_speaking.webp"
+  },
+  "julia_thinking": {
+    "file": "assets/julia_thinking.webp"
+  },
+  "julia_satisfied": {
+    "file": "assets/julia_satisfied.webp"
+  }
+}

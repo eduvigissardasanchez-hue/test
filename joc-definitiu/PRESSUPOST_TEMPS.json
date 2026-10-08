@@ -1,0 +1,44 @@
+{
+  "path": "Sense errors",
+  "words": 819,
+  "cases": [
+    {
+      "case": 1,
+      "words": 76
+    },
+    {
+      "case": 2,
+      "words": 93
+    },
+    {
+      "case": 3,
+      "words": 85
+    },
+    {
+      "case": 4,
+      "words": 87
+    },
+    {
+      "case": 5,
+      "words": 82
+    },
+    {
+      "case": 6,
+      "words": 78
+    },
+    {
+      "case": 7,
+      "words": 88
+    },
+    {
+      "case": 8,
+      "words": 81
+    },
+    {
+      "case": 9,
+      "words": 95
+    }
+  ],
+  "excludes": "Indicadors recurrents, noms, càrrecs i dates de l’escena.",
+  "estimate": "Lectura a 200–220 paraules/min + 9 decisions de 5–8 s + transicions; pendent de prova amb participants."
+}
